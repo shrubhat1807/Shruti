@@ -14,7 +14,7 @@ pandas==0.20.3
 Pillow==4.2.1
 python-dateutil==1.5
 pytz==2017.2
-requests==2.18.2
+requests==2.20.0
 simplejson==3.11.1
 six==1.10.0
 urllib3==1.22
