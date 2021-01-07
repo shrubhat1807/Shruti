@@ -4,7 +4,7 @@ chardet==3.0.4
 Django==1.11.3
 heroku==0.1.4
 idna==2.5
-lxml==3.8.0
+lxml==4.6.2
 nasdaq-stock-quote==1.2.1
 nose==1.3.7
 nsetools==1.0.5
