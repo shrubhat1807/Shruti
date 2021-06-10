@@ -1,7 +1,7 @@
 alpha-vantage==1.1.4
 certifi==2017.7.27.1
 chardet==3.0.4
-Django==1.11.3
+Django==2.2.24
 heroku==0.1.4
 idna==2.5
 lxml==3.8.0
